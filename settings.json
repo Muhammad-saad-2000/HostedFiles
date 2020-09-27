@@ -1,0 +1,90 @@
+{
+    "[verilog]": {
+        "editor.defaultFormatter": "ericsonj.verilogformat"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "verilog-format.path": "D:\\Collage\\LD\\verilog\\verilog-format.exe",
+    "window.zoomLevel": 0,
+    "verilog.ctags.path": "D:\\Collage\\LD\\verilog\\ctags-2020-02-28_003c5747-x64\\ctags.exe",
+    "verilog.linting.iverilog.arguments": "-Wall",
+    "verilog.linting.linter": "modelsim",
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "editor.mouseWheelZoom": true,
+    "python.pythonPath": "C:\\Users\\moham\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "files.exclude": {
+        "**/*.ahk": true,
+        "**/*.exe": true,
+        "**/*.ilk": true,
+        "**/*.obj": true,
+        "**/*.pdb": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "files.hotExit": "off",
+    "workbench.colorCustomizations": {},
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.analysis.cachingLevel": "Library",
+    "python.diagnostics.sourceMapsEnabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "afterDelay",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.autofetch": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+    "prettier.withNodeModules": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "debug.console.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "workbench.colorTheme": "Dracula",
+    "python.dataScience.askForKernelRestart": false,
+    "arduino.additionalUrls": "",
+    "explorer.confirmDelete": false,
+    "prettier.endOfLine": "crlf",
+    "editor.suggestSelection": "first",
+    "editor.insertSpaces": false,
+    "editor.hover.delay": 200,
+    "prettier.singleQuote": true,
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "cmake.configureOnOpen": true,
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "html.format.indentInnerHtml": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitDisabledWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressSupportGitLensNotification": false
+    },
+    "cmake.debugConfig": {
+        "cwd": "${workspaceRoot}",
+        "externalConsole": true
+    },
+    "cmake.autoSelectActiveFolder": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+}
